@@ -10,7 +10,7 @@ I'm passionate about building robust and scalable web applications across the fu
 
 <div align="center">
   
-  ![Profile Details](https://github-stats-iota-ruddy.vercel.app/api/cards/profile-details?username=amiMohammad&theme=github_dark)
+  ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amiMohammad&theme=github_dark&animation=rgb-soft)
 
   
   <p align="center">
