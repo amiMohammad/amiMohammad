@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Assalamu Alaikum, I'm amiMohammad. Web designer and developer, hobbyists novice Software Engineer, Graphics Designer and Gamer.
 
-<!--
-**amiMohammad/amiMohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Backend • Frontend • Desktop 
 
-Here are some ideas to get you started:
+I'm passionate about building robust and scalable web applications across the full stack. Beyond web development, I'm also enthusiastic about reverse engineering and low-level programming, where I enjoy exploring how systems work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:** Working as a Full Stack Developer
+
+---
+
+<div align="center">
+  
+  ![Profile Details](https://github-stats-iota-ruddy.vercel.app/api/cards/profile-details?username=amiMohammad&theme=github_dark)
+
+  
+  <p align="center">
+    <img src="https://github-stats-iota-ruddy.vercel.app/api/cards/stats?username=amiMohammad&theme=github_dark" alt="GitHub Stats" />
+    <img src="https://github-stats-iota-ruddy.vercel.app/api/cards/repos-per-language?username=amiMohammad&theme=github_dark" alt="Top Languages" />
+  </p>
+</div>
