@@ -9,12 +9,10 @@ I'm passionate about building robust and scalable web applications across the fu
 ---
 
 <div align="center">
-  
   ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amiMohammad&theme=github_dark&animation=rgb-soft)
 
-  
   <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amiMohammad&theme=gruvbox" alt="GitHub Stats" />
-    <img src="https://github-stats-iota-ruddy.vercel.app/api/cards/repos-per-language?username=amiMohammad&theme=github_dark" alt="Top Languages" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amiMohammad&theme=2077&exclude=jupyter%20Notebook" alt="Top Languages" />
   </p>
 </div>
