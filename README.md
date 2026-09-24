@@ -14,7 +14,7 @@ I'm passionate about building robust and scalable web applications across the fu
 
   
   <p align="center">
-    <img src="https://github-stats-iota-ruddy.vercel.app/api/cards/stats?username=amiMohammad&theme=github_dark" alt="GitHub Stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amiMohammad&theme=gruvbox" alt="GitHub Stats" />
     <img src="https://github-stats-iota-ruddy.vercel.app/api/cards/repos-per-language?username=amiMohammad&theme=github_dark" alt="Top Languages" />
   </p>
 </div>
