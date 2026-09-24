@@ -12,6 +12,5 @@ Web designer and developer, hobbyists novice Software Engineer, Graphics Designe
   <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amiMohammad&theme=gruvbox" alt="GitHub Stats" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amiMohammad&theme=2077&exclude=jupyter%20Notebook" alt="Commit Languages" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amiMohammad&theme=2077&exclude=jupyter%20Notebook" alt="Top Languages" />
   </p>
 </div>
