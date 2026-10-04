@@ -3,8 +3,8 @@ name: GitHub-Profile-Summary-Cards
 on:
   create:
   push:
-  schedule: # execute every 24 hours
-    - cron: "* */24 * * *"
+  schedule: # Run Workflow at 00:01 on January 1, March 1, June 1, September 1, and December 1 — five times a year.
+    - cron: "1 0 1 jan,mar,jun,sep,dec *"
   workflow_dispatch:
 
 jobs:
