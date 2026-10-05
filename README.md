@@ -1,8 +1,6 @@
 # 👋 Assalamu Alaikum, I'm Mohammad Hasibur Rahman.
 Web designer and developer, hobbyists novice Software Engineer, Graphics Designer and Gamer.
 
-**Full stack:** Web Developer
-
 ---
 
 <div align="center">
