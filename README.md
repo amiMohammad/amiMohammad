@@ -1,5 +1,5 @@
 # 👋 Assalamu Alaikum, I'm Mohammad Hasibur Rahman.
-Web Designer & Developer, Graphics Designer, Software Engineer (Newbie) and Gamer....
+Computer Teacher, Web Designer & Developer, Graphics Designer, Software Engineer (Newbie) and Gamer.
 
 ---
 
